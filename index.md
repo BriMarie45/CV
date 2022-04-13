@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>💜 Bri's Personal Site</title>
+  <title>👩‍💻 Bri's Personal Site</title>
 
   <style>
     body {background-color: #D7E9F7;}
@@ -82,7 +82,6 @@
         </tr>
       </tbody>
     </table>
-    <hr>
     <h3>Skills</h3>
     <table cellspacing="5">
       <tr>
@@ -122,6 +121,7 @@
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
     </table>
+  <hr>
   <h3>Hobbies</h3>
   <ol>
     <li>Running my own small <a href="https://www.etsy.com/shop/WoodBurnsByBri">wood burning business</a></li>
