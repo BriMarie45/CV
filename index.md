@@ -6,12 +6,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>💜 Bri's Personal Site</title>
+
+  <style>
+    body {background-color: #D7E9F7;}
+    hr {
+      border: none;
+      background-color: darkgrey;
+      height: 2px
+      }
+  </style>
+
 </head>
 
 <body>
   <table cellspacing="20">
     <tr>
-      <td> <img src="images/BEprofile.png" alt="brianna-profile" width="150"></td>
+      <td> <img src="https://media-exp1.licdn.com/dms/image/C5603AQHREhGGVto9YA/profile-displayphoto-shrink_800_800/0/1647541361124?e=1655337600&v=beta&t=YUY832k7KbS30aw7Dn76n60YNac1PFcxrlzt1TxMiwI" alt="brianna-profile" width="150"></td>
       <td>
         <h1>Brianna Evers</h1>
       <p>
@@ -27,8 +37,8 @@
   <hr>
   <h3>Education</h3>
     <ul>
-      <li> Master of Science in Applied Nutrition from University of New England - coming August 2022</li>
-      <li> Bachelor of Arts in Psychology from Stony Brook University - graduated in May 2018</li>
+      <li> Master of Science in Applied Nutrition from University of New England - Coming August 2022</li>
+      <li> Bachelor of Arts in Psychology from Stony Brook University - Graduated in May 2018</li>
     </ul>
   <h3>Work Experience</h3>
     <table cellspacing="10">
@@ -44,6 +54,11 @@
           <td>Sept. 2021 - Present</td>
           <td>Development Manager</td>
           <td>Celiac Disease Foundation</td>
+        </tr>
+        <tr>
+          <td>Mar. 2021 - July 2021</td>
+          <td>Part Time Health Coach</td>
+          <td>inHealth Lifestyle Therapeutics</td>
         </tr>
         <tr>
           <td>Mar. 2021 - Sept. 2021</td>
@@ -67,6 +82,7 @@
         </tr>
       </tbody>
     </table>
+    <hr>
     <h3>Skills</h3>
     <table cellspacing="5">
       <tr>
@@ -110,10 +126,11 @@
   <ol>
     <li>Running my own small <a href="https://www.etsy.com/shop/WoodBurnsByBri">wood burning business</a></li>
     <li>Growing succulents and house plants</li>
+    <li>Coaching field hockey at Chaminade College Preparatory School</li>
     <li>Hiking and going for walks with my dog</li>
     <li>Learning to code!</li>
   </ol>
-  <h3><a href="Contact_Me.html">Contact Me</a></h3>
+  <h3 align="center"><a href="Contact_Me.html">Contact Me</a></h3>
 </body>
 
 </html>
